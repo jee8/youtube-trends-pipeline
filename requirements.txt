@@ -1,0 +1,3 @@
+sqlalchemy
+echo streamlit >> requirements.txt
+
